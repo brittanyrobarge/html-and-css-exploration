@@ -1,0 +1,15 @@
+.my-grid {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto 100px;
+  }
+
+  .has-blue-background {
+    background-color: #a7beff;
+    border: 1px solid #721EE3;
+  }
+
+  .has-yellow-background {
+    background-color: #f2faa7;
+    border: 1px solid #1ecfe3;
+  }
